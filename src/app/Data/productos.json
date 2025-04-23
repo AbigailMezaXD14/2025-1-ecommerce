@@ -1,0 +1,224 @@
+[
+    {
+            "id_producto": 1,
+            "imagen": "assets/adidas-court-base.jpeg",
+            "marca": "Adidas",
+            "precio": "$2,300", 
+            "modelo":  "Court Base",
+            "colores": "Blanco/gris; blanco/verde; blanco/azul; negro/blaco; negro/azul"
+            
+        
+    },
+
+    {
+        "id_producto": 2,
+        "imagen": "assets/adidas-galaxy-7M.jpeg",
+        "marca": "Adidas",
+        "precio": "$2,000", 
+        "modelo":  "Galaxy 7M para hombre",
+        "colores": "Gris/azul; gris/negro; gris/blanco; negro/gris; negro/blanco"
+        
+    
+},
+
+{
+    "id_producto": 3,
+    "imagen": "assets/adidas-rapidmove-trainer.jpeg",
+    "marca": "Adidas",
+    "precio": "$1,700", 
+    "modelo":  "rapidmove trainer para hombre",
+    "colores": "Negro/blanco; negro/azul; negro/gris; negro/rojo; blanco/gris"
+    
+
+},
+
+{
+    "id_producto": 4,
+    "imagen": "assets/adidas-superstar-XLG.jpeg",
+    "marca": "Adidas",
+    "precio": "$3,000", 
+    "modelo":  "Superstar XLG para hombre y mujer",
+    "colores": "Blanco/gris; blanco/verde; blanco/azul; negro/blaco; negro/azul"
+    
+
+},
+
+{
+    "id_producto": 5,
+    "imagen": "assets/converse-bota-lona-multicolor.jpeg",
+    "marca": "Converse",
+    "precio": "$2,750", 
+    "modelo":  "Bota de lona multicolor para mujer",
+    "colores": "Multicolor verde/café; multicolor verde/negro; multicolor blanco/verde/negro"
+    
+
+},
+
+{
+    "id_producto": 6,
+    "imagen": "assets/converse-chuck-taylor.jpeg",
+    "marca": "Converse",
+    "precio": "$1,100", 
+    "modelo":  "Chuck Taylor para mujer",
+    "colores": "Blanco, negro, azul y rojo"
+    
+
+},
+
+{
+    "id_producto": 7,
+    "imagen": "assets/converse-de-piel.jpeg",
+    "marca": "Converse",
+    "precio": "$3,300", 
+    "modelo":  "Piel sintética para hombre",
+    "colores": "Café"
+    
+
+},
+
+{
+    "id_producto": 8,
+    "imagen": "assets/converse-tenis-bota.jpeg",
+    "marca": "Converse",
+    "precio": "$1,700", 
+    "modelo":  "Bota clásicos para mujer",
+    "colores": "Negro, blanco, azul y rosa"
+    
+
+},
+
+{
+    "id_producto": 9,
+    "imagen": "assets/jordan-air-1-patentBred.jpeg",
+    "marca": "Nike",
+    "precio": "$2,800", 
+    "modelo":  "Jordan Air 1",
+    "colores": "Rojo/negro/blanco"
+    
+
+},
+
+{
+    "id_producto": 10,
+    "imagen": "assets/jordan-air-4-retro.jpeg",
+    "marca": "Nike",
+    "precio": "$3,000", 
+    "modelo":  "Jordan Air 4",
+    "colores": "Negro/rojo/blanco"
+    
+
+},
+
+{
+    "id_producto": 11,
+    "imagen": "assets/jordan-air-6-aqua.jpeg",
+    "marca": "Nike",
+    "precio": "$4,200", 
+    "modelo":  "Jordan Air 6 para hombre",
+    "colores": "Aqua - edición limitada"
+    
+
+},
+
+{
+    "id_producto": 12,
+    "imagen": "assets/jordan-XI-retroBred.jpeg",
+    "marca": "Nike",
+    "precio": "$3,300", 
+    "modelo":  "Jordan XI retro para hombre y mujer",
+    "colores": "Negro y rojo"
+    
+
+},
+
+{
+    "id_producto": 13,
+    "imagen": "assets/panam-bota-coyote.jpeg",
+    "marca": "Panam",
+    "precio": "$2,000", 
+    "modelo":  "Coyote - para hombre y mujer",
+    "colores": "Multicolor blanco/café/verde"
+    
+
+},
+
+{
+    "id_producto": 14,
+    "imagen": "assets/panam-bota-negro.jpeg",
+    "marca": "Panam",
+    "precio": "$1,000", 
+    "modelo":  "Bota clásica para hombre y mujer",
+    "colores": "Blanco y gris; blanco y verde; blanco y azul; negro y blaco; negro y azul"
+    
+
+},
+
+{
+    "id_producto": 15,
+    "imagen": "assets/panam-bota-tempoz.jpeg",
+    "marca": "Panam",
+    "precio": "$1,200", 
+    "modelo":  "Tempoz - edición masculina",
+    "colores": "blanco/azul - edición limitada"
+    
+
+},
+
+{
+    "id_producto": 16,
+    "imagen": "assets/panam-meztli-dr-simi.jpeg",
+    "marca": "Panam",
+    "precio": "$1,500", 
+    "modelo":  "Meztli Dr Simi - unisex",
+    "colores": "Blanco/azul - edición limitada - incluye Simi de peluche"
+    
+
+},
+
+{
+    "id_producto": 17,
+    "imagen": "assets/adidas-court-base.jpeg",
+    "marca": "Adidas",
+    "precio": "$2,300", 
+    "modelo":  "Court Base",
+    "colores": "Blanco y gris; blanco y verde; blanco y azul; negro y blaco; negro y azul"
+    
+
+},
+
+{
+    "id_producto": 18,
+    "imagen": "assets/adidas-court-base.jpeg",
+    "marca": "Adidas",
+    "precio": "$2,300", 
+    "modelo":  "Court Base",
+    "colores": "Blanco y gris; blanco y verde; blanco y azul; negro y blaco; negro y azul"
+    
+
+},
+
+{
+    "id_producto": 19,
+    "imagen": "assets/adidas-court-base.jpeg",
+    "marca": "Adidas",
+    "precio": "$2,300", 
+    "modelo":  "Court Base",
+    "colores": "Blanco y gris; blanco y verde; blanco y azul; negro y blaco; negro y azul"
+    
+
+},
+
+{
+    "id_producto": 20,
+    "imagen": "assets/adidas-court-base.jpeg",
+    "marca": "Adidas",
+    "precio": "$2,300", 
+    "modelo":  "Court Base",
+    "colores": "Blanco y gris; blanco y verde; blanco y azul; negro y blaco; negro y azul"
+    
+
+}
+
+
+
+]

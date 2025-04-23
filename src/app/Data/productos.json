@@ -177,44 +177,44 @@
 
 {
     "id_producto": 17,
-    "imagen": "assets/adidas-court-base.jpeg",
-    "marca": "Adidas",
-    "precio": "$2,300", 
-    "modelo":  "Court Base",
-    "colores": "Blanco y gris; blanco y verde; blanco y azul; negro y blaco; negro y azul"
+    "imagen": "assets/puma-Carina-Street.jpeg",
+    "marca": "Puma",
+    "precio": "$2,000", 
+    "modelo":  "Carina Street para hombre",
+    "colores": "Blanco/rojo; negro/rojo; blanco/negro/rojo; blanco/azul oscuro"
     
 
 },
 
 {
     "id_producto": 18,
-    "imagen": "assets/adidas-court-base.jpeg",
-    "marca": "Adidas",
-    "precio": "$2,300", 
-    "modelo":  "Court Base",
-    "colores": "Blanco y gris; blanco y verde; blanco y azul; negro y blaco; negro y azul"
+    "imagen": "assets/puma-caven-2.0.jpeg",
+    "marca": "Puma",
+    "precio": "$2,700", 
+    "modelo":  "Caven - para hombre y mujer",
+    "colores": "Negro/blanco; negro/rojo; negro/azul"
     
 
 },
 
 {
     "id_producto": 19,
-    "imagen": "assets/adidas-court-base.jpeg",
-    "marca": "Adidas",
-    "precio": "$2,300", 
-    "modelo":  "Court Base",
-    "colores": "Blanco y gris; blanco y verde; blanco y azul; negro y blaco; negro y azul"
+    "imagen": "assets/puma-karmen-reben-negro.jpeg",
+    "marca": "Puma",
+    "precio": "$1,500", 
+    "modelo":  "Karmen Reben",
+    "colores": "Negro/blanco; negro/azul"
     
 
 },
 
 {
     "id_producto": 20,
-    "imagen": "assets/adidas-court-base.jpeg",
-    "marca": "Adidas",
-    "precio": "$2,300", 
-    "modelo":  "Court Base",
-    "colores": "Blanco y gris; blanco y verde; blanco y azul; negro y blaco; negro y azul"
+    "imagen": "assets/puma-suede-XL.jpeg",
+    "marca": "Puma",
+    "precio": "$2,900", 
+    "modelo":  "Suede XL",
+    "colores": "Rojo/blanco - edición limitada"
     
 
 }
